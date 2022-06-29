@@ -1,3 +1,6 @@
+# Author: Andre de la Rambelje
+# This script localizes regions of high expression within the genome of wAjap in infected, uninfected and cured samples
+
 library(circlize)
 library(ggplot2)
 
