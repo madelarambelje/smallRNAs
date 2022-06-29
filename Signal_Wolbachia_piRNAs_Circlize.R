@@ -1,3 +1,8 @@
+# Author: Andre de la Rambelje
+# This script localizes regions of interest within the genome of Wolbachia, e.g, clusters of piRNAs, argenine serine rich and a part coding for 
+# WO-phage regions
+
+
 library(circlize)
 library(ggplot2)
 # Loading piRNAs mapping to Wolbachia genome
