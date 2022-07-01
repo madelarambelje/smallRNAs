@@ -27,7 +27,7 @@ This repository contains scripts to analyze the expression of small non-coding R
    |tensorflow|1.15.2|
   
  * Linux commandline tools
-    | Package | Version |
+    | Tool | Version |
     | ------------- | ------------- |
     |miRDeep2|2|
     |ShortStack|3.8.5|
