@@ -37,6 +37,8 @@ This repository contains scripts to analyze the expression of small non-coding R
     |piRNN|1|
     |DeepTools||
     |cutadapt|2.10|
+  ## Data availability
+  All data used except for the prediction of miRNAs using neural networks is not publically available yet. This data may be later available. Here is the [link](https://drive.google.com/drive/folders/1c3vLE2agex8lsCNOODKUUyRcFkLZSSqV?usp=sharing) for accessing the training data of microRNA prediction using neural networks.
   ## Workflow identification and prediction sncRNAs
  Reads were trimmed to a lengths ranging from 18 up to 31 nucleotides using cutadapt. Initially, sequences were mapped using ShortStack to genomes of *A.japonica* and *Wolbachia (wAjap)*. These mapped reads were extracted using SAMtools hereafter the identification of sncRNA types followed. 
  * Known piRNAs were identified using ShortStack and [piRBase](http://bigdata.ibp.ac.cn/piRBase/) parameters can be found [here](https://github.com/madelarambelje/smallRNAs/blob/main/preprocessing/02_GDA_ShortStack_known_piRNAs.sh). Unidentified reads were extracted and used for the identification of known and novel miRNAs and novel piRNAs.
