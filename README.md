@@ -1,6 +1,6 @@
 Author: Andre de la Rambelje
 # The role of sncRNAs in endosymbiont-induced parthenogenesis
-This repository contains scripts to analyze the expression of small non-coding RNAs in *A. japonica* and *Wolbachia*. 
+This repository contains scripts to analyze the expression of small non-coding RNAs in *A. japonica* and *Wolbachia*.
 
 ## Dependancies
  
